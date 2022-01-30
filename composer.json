@@ -1,0 +1,7 @@
+{
+    "name": "vendor/testsynfony",
+    "require": {},
+    "autoload":{
+        "psr-4": {"App\\": "Class/"}
+    }
+}
