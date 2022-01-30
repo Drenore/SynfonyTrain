@@ -1,9 +1,0 @@
-{
-    "name": "vendor/testsynfony",
-    "require": {
-        "nesbot/carbon": "^2.56"
-    },
-    "autoload":{
-        "psr-4": {"App\\": "Class/"}
-    }
-}
